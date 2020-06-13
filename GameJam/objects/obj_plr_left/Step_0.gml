@@ -7,5 +7,5 @@ if keyboard_check_direct(vk_up){
 } else if keyboard_check_direct(vk_right){
 	sprite_index = BlueWalk
 } else {
-	sprite_index = BlueWalk
+	sprite_index = BlueIdle
 } 
