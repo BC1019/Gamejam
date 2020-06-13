@@ -1,5 +1,8 @@
 cycle = keyboard_check(vk_space)
 
+player[0] = obj_plr_left
+player[1] = obj_plr_right
+
 if cycle
 {
 	if playerNumber >= 2{
@@ -18,30 +21,31 @@ moveRight = keyboard_check(vk_right)
 //Movement
 if moveUp = true
 {
-	vspeed -= mySpeed
+	player[playerNumber].vspeed -= mySpeed
+	//vspeed -= mySpeed
 }
 
 if moveDown = true
 {
-	vspeed += mySpeed
+	player[playerNumber].vspeed += mySpeed
 }
 
 if moveLeft = true
 {
-	hspeed -= mySpeed
+	player[playerNumber].hspeed -= mySpeed
 }
 
 if moveRight = true
 {
-	hspeed += mySpeed
+	player[playerNumber].hspeed -= mySpeed
 }
 
 if !moveUp and !moveDown
 {
-	vspeed = 0
+	player[playerNumber].vspeed = 0
 }
 
 if !moveRight and !moveLeft
 {
-	hspeed = 0
+	player[playerNumber].hspeed = 0
 }
