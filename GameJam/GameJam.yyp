@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "90566470-8686-468b-b8c9-c6f2fb0f48aa",
+            "Value": {
+                "id": "9eeb27b2-c8fe-4137-b037-837f47abbc04",
+                "resourcePath": "sprites\\DungeonSet\\DungeonSet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93ecd515-b1bc-46d8-9371-5af51a4ac413",
             "Value": {
                 "id": "a6f377bd-6bd9-405c-8b45-3a8e0db33541",
