@@ -24,16 +24,6 @@ if moveUp = true
 {
 	player[playerNumber].vspeed -= mySpeed
 	//vspeed -= mySpeed
-	if playerNumber = 0
-		{
-			sprite_index = BlueWalk
-			image_speed = 1
-		}
-	if playerNumber = 1
-		{
-			sprite_index = GreenWalk
-			image_speed = 1
-		}
 }
 
 if moveDown = true
