@@ -266,7 +266,7 @@
             "Key": "f5ff05e8-a5fe-4b41-bd04-3649d68828e7",
             "Value": {
                 "id": "bac9b030-c3cf-431d-bb0a-0f7125e568b4",
-                "resourcePath": "objects\\object3\\object3.yy",
+                "resourcePath": "objects\\Controller\\Controller.yy",
                 "resourceType": "GMObject"
             }
         },
