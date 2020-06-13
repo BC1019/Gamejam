@@ -1,28 +1,28 @@
 //Inputs
-moveUp = keyboard_check(ord("W"))
-moveDown = keyboard_check(ord("S"))
-moveLeft = keyboard_check_direct(ord("A"))
-moveRight = keyboard_check_direct(ord("D"))
+moveUp = keyboard_check(vk_up)
+moveDown = keyboard_check(vk_down)
+moveLeft = keyboard_check(vk_left)
+moveRight = keyboard_check(vk_right)
 
 //Movement
 if moveUp = true
 {
-	vspeed = -mySpeed
+	vspeed -= mySpeed
 }
 
-if moveDown
+if moveDown = true
 {
-	vspeed = mySpeed
+	vspeed += mySpeed
 }
 
-if moveLeft
+if moveLeft = true
 {
-	hspeed = mySpeed
+	hspeed -= mySpeed
 }
 
-if moveRight
+if moveRight = true
 {
-	hspeed = -mySpeed
+	hspeed += mySpeed
 }
 
 if !moveUp and !moveDown

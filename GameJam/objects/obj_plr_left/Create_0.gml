@@ -1,1 +1,1 @@
-mySpeed = 5;
+mySpeed = 1;
