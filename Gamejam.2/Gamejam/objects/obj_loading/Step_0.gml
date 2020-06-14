@@ -3,5 +3,5 @@
 
 if alarm[0] == -1
 	{
-		alarm[0] = 30
+		alarm[0] = irandom_range(60,150)
 	}
