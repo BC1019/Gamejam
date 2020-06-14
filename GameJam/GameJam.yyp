@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1565aec9-d319-4fcc-ab23-20c3dc86de27",
+            "Value": {
+                "id": "82b99770-6706-4ad1-bcaa-485b2a393b49",
+                "resourcePath": "sprites\\BlueIdle\\BlueIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "18585cbf-5ab3-4683-8a7c-5d502f76b8c4",
             "Value": {
                 "id": "f1898a98-791a-4a6d-8798-07ecaca7e21f",
@@ -68,14 +76,6 @@
                 "id": "6c227f9a-5634-411a-b63a-ac28c1546089",
                 "resourcePath": "views\\2b771c33-3fe6-45ac-b932-28e4a606d2dc.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "2f1842be-939e-44ef-af18-03c9e12d1d48",
-            "Value": {
-                "id": "583e8cdc-94e9-4740-bb6b-b13f34a20312",
-                "resourcePath": "sprites\\BlueWalk\\BlueWalk.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "4dea8e66-1b79-4593-b102-61460bf2f831",
+            "Value": {
+                "id": "8bc0f9dc-e66c-4d32-8651-919c5f92eea8",
+                "resourcePath": "sprites\\BlueWalk\\BlueWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "53b41aa8-2396-496b-852b-ae1362bdc797",
             "Value": {
                 "id": "28aa7847-26f0-44cc-9dc6-a5ddb5edc9a8",
@@ -143,11 +151,27 @@
             }
         },
         {
+            "Key": "69459c2f-c506-4338-a073-f04f61720528",
+            "Value": {
+                "id": "1c908a2a-56e1-422f-9d7d-5056664a2bc5",
+                "resourcePath": "sprites\\GreenWalk\\GreenWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7bdd9ca2-eaad-4a5e-9030-9f9859fc6d29",
             "Value": {
                 "id": "6d45a4bf-1340-4113-b3bf-03dc3eaa771a",
                 "resourcePath": "views\\7bdd9ca2-eaad-4a5e-9030-9f9859fc6d29.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8b97413e-d83a-45d6-a0c9-a9ba43d7b7c7",
+            "Value": {
+                "id": "4b45aa6a-4a9b-4acc-a167-f3ecbde0cfd8",
+                "resourcePath": "sprites\\Pressureplate\\Pressureplate.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,14 +188,6 @@
                 "id": "a6f377bd-6bd9-405c-8b45-3a8e0db33541",
                 "resourcePath": "views\\93ecd515-b1bc-46d8-9371-5af51a4ac413.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "98a31dd3-5bf3-428e-8764-762e20c94918",
-            "Value": {
-                "id": "0cdc4a66-d1f9-4ee2-9668-181d8a49d2b1",
-                "resourcePath": "sprites\\BlueIdle\\BlueIdle.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,27 +223,11 @@
             }
         },
         {
-            "Key": "af632bf2-fb4d-4dca-b1cb-201b5e10d24a",
-            "Value": {
-                "id": "881157f2-ec6c-4ab9-be84-ea2ddcd91e45",
-                "resourcePath": "sprites\\GreenWalk\\GreenWalk.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c6109dfe-dca9-48b4-a58d-871453f2eeba",
             "Value": {
                 "id": "d1fd37e2-5ef1-4f00-9603-0e1ba83a0c38",
                 "resourcePath": "views\\c6109dfe-dca9-48b4-a58d-871453f2eeba.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "cc852617-2347-4239-a379-115943d75a92",
-            "Value": {
-                "id": "3486f7bf-6ee4-444e-b788-281730aec09b",
-                "resourcePath": "sprites\\GreenIdle\\GreenIdle.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,11 +255,27 @@
             }
         },
         {
+            "Key": "d9595f73-d8df-4dd4-9206-e125a9652459",
+            "Value": {
+                "id": "16f93d18-0ae2-4fd7-955b-f72930ed2f24",
+                "resourcePath": "sprites\\GreenIdle\\GreenIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dc9d49e8-4b5b-4eb0-a4a3-589dbe8459c6",
             "Value": {
                 "id": "ab29bec2-6305-436f-b469-f51b35284d15",
                 "resourcePath": "views\\dc9d49e8-4b5b-4eb0-a4a3-589dbe8459c6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e0d82da0-4c93-47b9-b31a-f997e7084572",
+            "Value": {
+                "id": "3f375373-6bf2-4aff-862b-8e167bb3906c",
+                "resourcePath": "sprites\\Pressuredoor\\Pressuredoor.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
