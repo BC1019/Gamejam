@@ -1,0 +1,5 @@
+/// @description Code that starts room transition
+// You can write your code in this editor
+
+alarm[0] = room_speed/5
+room_goto_next()
