@@ -5,11 +5,11 @@ player[1] = obj_plr_right
 
 if cycle
 {
-	show_debug_message(string(playerNumber))
-	if playerNumber >= 1{
-		playerNumber = 0
+	show_debug_message(string(global.playerNumber))
+	if global.playerNumber >= 1{
+		global.playerNumber = 0
 	} else {
-		playerNumber += 1
+		global.playerNumber += 1
 	}
 }
 
@@ -37,36 +37,36 @@ moveRight = keyboard_check(vk_right)
 //	player[playerNumber].vspeed = 0
 //}
 
-show_debug_message("H = " + string(player[playerNumber].hspeed) + " V = " + string(player[playerNumber].vspeed))
+show_debug_message("H = " + string(player[global.playerNumber].hspeed) + " V = " + string(player[global.playerNumber].vspeed))
 
 //Movement
 if moveUp = true
 	{
-		player[playerNumber].vspeed -= mySpeed
+		player[global.playerNumber].vspeed -= mySpeed
 	}
 
 if moveDown = true
 	{
-		player[playerNumber].vspeed += mySpeed
+		player[global.playerNumber].vspeed += mySpeed
 	}
 
 if moveLeft = true
 	{
-		player[playerNumber].hspeed -= mySpeed
+		player[global.playerNumber].hspeed -= mySpeed
 	}
 
 if moveRight = true
 	{
-		player[playerNumber].hspeed += mySpeed
+		player[global.playerNumber].hspeed += mySpeed
 	}
 
 if !moveUp and !moveDown
 	{
-		player[playerNumber].vspeed = 0
+		player[global.playerNumber].vspeed = 0
 	}
 
 if !moveRight and !moveLeft
 	{
-		player[playerNumber].hspeed = 0
+		player[global.playerNumber].hspeed = 0
 	}
 
