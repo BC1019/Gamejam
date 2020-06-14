@@ -2,7 +2,7 @@
     "id": "69459c2f-c506-4338-a073-f04f61720528",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "GreenWalk",
+    "name": "GreenWalkright",
     "For3D": false,
     "HTile": false,
     "VTile": false,

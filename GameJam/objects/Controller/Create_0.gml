@@ -1,5 +1,6 @@
 mySpeed = 0.25
 playerNumber = 0
+depth = -999
 
 //tileSize = 64
 

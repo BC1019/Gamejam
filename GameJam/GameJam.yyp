@@ -39,11 +39,35 @@
             }
         },
         {
+            "Key": "0e05e9ac-2e3a-4806-a400-a705b54d66ef",
+            "Value": {
+                "id": "3040c9b9-508d-4b1f-b0a8-84d350e09d20",
+                "resourcePath": "rooms\\lv2\\lv2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "12b140c8-8077-427f-8c31-2af63c7b8d26",
+            "Value": {
+                "id": "fea8ae4b-adf4-430f-a30e-55bedbdf7c51",
+                "resourcePath": "objects\\obj_pressure\\obj_pressure.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1565aec9-d319-4fcc-ab23-20c3dc86de27",
             "Value": {
                 "id": "82b99770-6706-4ad1-bcaa-485b2a393b49",
                 "resourcePath": "sprites\\BlueIdle\\BlueIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1845da49-05ec-424e-84ac-2752f6d86ad5",
+            "Value": {
+                "id": "cc87c9a3-893d-4aaa-bf2d-962077851984",
+                "resourcePath": "objects\\obj_endflag\\obj_endflag.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -95,6 +119,22 @@
             }
         },
         {
+            "Key": "39dbbc1b-222e-4c86-ac7b-b408b00bcd52",
+            "Value": {
+                "id": "5f36c782-387a-4c2a-96a2-e4e497f55a18",
+                "resourcePath": "objects\\obj_door\\obj_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "409c5fa6-cf37-41ad-b971-32ab26f59f8b",
+            "Value": {
+                "id": "9af71664-19ef-425d-8745-6c43d8910a0f",
+                "resourcePath": "sprites\\spr_endflag\\spr_endflag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "490c3852-e9dc-4f23-8f75-a259bb234ae1",
             "Value": {
                 "id": "d4c69e7b-d5d3-4ec9-aadf-28a90c4a11c5",
@@ -122,7 +162,7 @@
             "Key": "4dea8e66-1b79-4593-b102-61460bf2f831",
             "Value": {
                 "id": "8bc0f9dc-e66c-4d32-8651-919c5f92eea8",
-                "resourcePath": "sprites\\BlueWalk\\BlueWalk.yy",
+                "resourcePath": "sprites\\BlueWalkright\\BlueWalkright.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -143,6 +183,14 @@
             }
         },
         {
+            "Key": "6081dd74-4482-4763-a097-b1c009c79892",
+            "Value": {
+                "id": "68d543f7-0a73-48f6-b0b5-0e7d93b64a01",
+                "resourcePath": "sprites\\GreenWalkdown\\GreenWalkdown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "60dfa9b8-ddb0-4ea0-ba9c-b933a89fa9b4",
             "Value": {
                 "id": "5758889b-3285-4a0e-a413-ccae0584c494",
@@ -154,7 +202,7 @@
             "Key": "69459c2f-c506-4338-a073-f04f61720528",
             "Value": {
                 "id": "1c908a2a-56e1-422f-9d7d-5056664a2bc5",
-                "resourcePath": "sprites\\GreenWalk\\GreenWalk.yy",
+                "resourcePath": "sprites\\GreenWalkright\\GreenWalkright.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -194,7 +242,7 @@
             "Key": "99008e14-3f6f-41e6-8c54-370f63a65bd7",
             "Value": {
                 "id": "12dc9701-426f-4d02-8dfa-60f8efe783cb",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\lv1\\lv1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -204,6 +252,14 @@
                 "id": "53f3e4ae-b9a5-4df1-ab0c-9e91465019e7",
                 "resourcePath": "views\\a06a2655-d688-4c77-84ff-86cfee4e5283.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5cb387b-c0c1-406d-80fb-2409e8352bb2",
+            "Value": {
+                "id": "b22ad319-726c-40fb-a92e-f34791ecfcd0",
+                "resourcePath": "sprites\\GreenWalkup\\GreenWalkup.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,6 +279,14 @@
             }
         },
         {
+            "Key": "c45df067-f7be-4a04-8860-e05e604c9152",
+            "Value": {
+                "id": "1dfec71d-db29-4925-a97a-4bea5854ca2e",
+                "resourcePath": "sprites\\BlueWalkup\\BlueWalkup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6109dfe-dca9-48b4-a58d-871453f2eeba",
             "Value": {
                 "id": "d1fd37e2-5ef1-4f00-9603-0e1ba83a0c38",
@@ -236,6 +300,14 @@
                 "id": "aa4e42b1-ba4c-4292-84d3-428402b28dcb",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d03865be-52d9-4cae-8956-8e5235c25df8",
+            "Value": {
+                "id": "65c6f829-13d4-4905-9943-ee4602423886",
+                "resourcePath": "sprites\\BlueWalkdown\\BlueWalkdown.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
