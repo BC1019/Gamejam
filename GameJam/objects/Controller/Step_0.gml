@@ -1,3 +1,5 @@
+/// @description Parent main code
+
 cycle = keyboard_check_pressed(vk_space)
 
 player[0] = obj_plr_left

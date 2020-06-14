@@ -82,7 +82,7 @@
             "Key": "19526dfe-a49b-42f3-bb0b-dfe9aa7b6f2d",
             "Value": {
                 "id": "58b638c3-4164-44e5-a010-a3bd505ab10c",
-                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourcePath": "sprites\\instruction\\instruction.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -108,6 +108,14 @@
                 "id": "6c227f9a-5634-411a-b63a-ac28c1546089",
                 "resourcePath": "views\\2b771c33-3fe6-45ac-b932-28e4a606d2dc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2f4e621e-2f9b-421d-853d-fcce450c48b4",
+            "Value": {
+                "id": "546c7c7a-fec4-4cf7-adeb-5f9cff1f5840",
+                "resourcePath": "objects\\obj_instruction2\\obj_instruction2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -204,6 +212,22 @@
                 "id": "5758889b-3285-4a0e-a413-ccae0584c494",
                 "resourcePath": "objects\\obj_plr_right\\obj_plr_right.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "628db74a-62b7-491c-99a9-d50de81af4d2",
+            "Value": {
+                "id": "11783805-7972-478e-95b5-d4c037d946cb",
+                "resourcePath": "sprites\\instruction3\\instruction3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "62b8755f-4da4-4181-8dd4-d67422c81c33",
+            "Value": {
+                "id": "56d80fcb-b832-4f2b-a3dd-e2245b7b9614",
+                "resourcePath": "sprites\\instruction2\\instruction2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -306,7 +330,7 @@
             "Key": "caac6f31-3948-46d1-a4e9-6ad1486422a3",
             "Value": {
                 "id": "cae92b4b-13ed-4444-b3c9-79e590a5f03d",
-                "resourcePath": "objects\\object7\\object7.yy",
+                "resourcePath": "objects\\obj_Instrction\\obj_Instrction.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -364,6 +388,14 @@
                 "id": "3f375373-6bf2-4aff-862b-8e167bb3906c",
                 "resourcePath": "sprites\\Pressuredoor\\Pressuredoor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e6778e8e-aa93-4dec-bd52-0a9ebe7ebf69",
+            "Value": {
+                "id": "9034f7b0-dc7f-42b2-84ec-08a123e12834",
+                "resourcePath": "objects\\obj_instruction3\\obj_instruction3.yy",
+                "resourceType": "GMObject"
             }
         },
         {

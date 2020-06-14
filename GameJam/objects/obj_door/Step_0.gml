@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Disappears when player steps on pressure plate
 // You can write your code in this editor
 
 if global.pressure = true

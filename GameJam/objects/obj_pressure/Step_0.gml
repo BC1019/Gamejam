@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Removes pressure plate whenplayer steps on it
 // You can write your code in this editor
 
 if global.pressure = true

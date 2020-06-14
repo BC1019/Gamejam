@@ -1,3 +1,5 @@
+/// @description Movement
+
 if global.playerNumber = 0
 	{
 		if keyboard_check_direct(vk_up){
