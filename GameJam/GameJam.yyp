@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "78f44c9a-3906-464d-9ea2-e595feec483a",
+            "Value": {
+                "id": "d037d432-6ada-470d-b139-e732e4ef4b5e",
+                "resourcePath": "rooms\\lv3\\lv3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7bdd9ca2-eaad-4a5e-9030-9f9859fc6d29",
             "Value": {
                 "id": "6d45a4bf-1340-4113-b3bf-03dc3eaa771a",
@@ -279,27 +287,11 @@
             }
         },
         {
-            "Key": "90566470-8686-468b-b8c9-c6f2fb0f48aa",
-            "Value": {
-                "id": "9eeb27b2-c8fe-4137-b037-837f47abbc04",
-                "resourcePath": "sprites\\DungeonSet\\DungeonSet.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "93ecd515-b1bc-46d8-9371-5af51a4ac413",
             "Value": {
                 "id": "a6f377bd-6bd9-405c-8b45-3a8e0db33541",
                 "resourcePath": "views\\93ecd515-b1bc-46d8-9371-5af51a4ac413.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "99008e14-3f6f-41e6-8c54-370f63a65bd7",
-            "Value": {
-                "id": "12dc9701-426f-4d02-8dfa-60f8efe783cb",
-                "resourcePath": "rooms\\lv1\\lv1.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -323,6 +315,14 @@
             "Value": {
                 "id": "b22ad319-726c-40fb-a92e-f34791ecfcd0",
                 "resourcePath": "sprites\\GreenWalkup\\GreenWalkup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a8323865-ec28-4a3c-bf59-9fd6d0197e4d",
+            "Value": {
+                "id": "c0ea21e1-679b-46f3-acb6-32a8e3af73cd",
+                "resourcePath": "sprites\\DungeonSet\\DungeonSet.yy",
                 "resourceType": "GMSprite"
             }
         },
